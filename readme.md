@@ -12,17 +12,17 @@ Each folder here contains some of the things I've tried out from the learn you a
 
 Below is me journalling what I've looked at and seen.
 
-### `2021-18-06`
+### `2021-06-18`
 
 I spent some time looking at the initial `baby.hs` and getting Haskell working on the M1. Did not actually save to git yet.
 
 Did spend a bit more time than desired on figuring out that the `llvm` compiler was the real issue on why I couldn't get files compiling.
 
-### `2021-21-06`
+### `2021-06-21`
 
 Played with a little bit of the `baby.hs` stuff and saw the first part of the `ghci` and learned about the neat `:l FILE` thing.
 
-### `2021-24-06`
+### `2021-06-24`
 
 I've gotten a bit further through the tutorial/book online. I've stopped at http://learnyouahaskell.com/recursion and need to pick back up here. Cool part I've learned today is that you can combine pattern matching and function definitions in a very powerful way. The neatest part is seeing how it looks like the mathematical definition.
 
