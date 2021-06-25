@@ -6,4 +6,9 @@ To start I'm going through this on an M1. I got kind of lucky and found random s
 
 http://learnyouahaskell.com/starting-out
 
+Each folder here contains some of the things I've tried out from the learn you a Haskell site.
 
+
+## Cool Stuff
+
+* I really like that you can pull files in to the `ghci` via `*Main> :l baby.hs` that little `:l FILE` is cool

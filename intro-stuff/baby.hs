@@ -8,3 +8,5 @@ doubleSmallNumber x = if x > 100
 
 boomBangs xs = [ if x < 10 then "BOOM!" else "BANG!" | x <- xs, odd x]   
 
+
+multiFilter = [ x | x <- [10..20], x /= 13, x /= 15, x /= 19] 
